@@ -61,30 +61,30 @@ This will be used to carryout Employee related transactions in DB.
   empImage - String(LONGTEXT) - can use URL for a image
   ```
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/74fff07f-573e-4df3-a285-754810337282)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/74f36b06-626b-4adb-beab-baf3d012764a)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/b1dbce1c-325f-4913-8ba2-cb334f6a3035)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/1d9067ed-632f-4e84-9b70-69940436e502)
 
 <hr/>
 
 > `GET /employees` - this will be used to list out all the employee records in the database.
 
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/b620d79e-20a1-45f1-a1ee-b168126e0dd7)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/a491bb3c-71ae-4aee-a8cb-7c28a3405e20)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/f6a604b6-0747-47f0-ab7b-2b908aac5a58)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/fa34f804-97ed-4406-a549-d1145c63cdca)
 
 <hr/>
 
 > `GET /employees/:id` - this will be used to find an employee with their employee ID.
 - Here, `:id` will be replaced with Employee's unique id (Which is set when the employee record is created).
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/b6ae70fe-c30d-4195-a03a-04160879eed4)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/d3f32f52-1141-4b30-a209-d15102b49696)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/9153c351-5216-441c-9955-d504260c5113)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/3562d0bf-0302-4a41-bac7-ca117c104e39)
 
 <hr/>
 
@@ -103,10 +103,10 @@ This will be used to carryout Employee related transactions in DB.
   ```
 
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/ff1d98a7-289d-4247-937c-0368ab75445f)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/e4bc10d4-150b-48aa-9a1e-8b3288094273)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/4e16e742-6904-4e58-8b69-9caf1e16a8df)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/292f4150-0c7f-499c-a163-79b20db7ceb0)
 
 <hr/>
 
@@ -123,10 +123,10 @@ This will be used to carryout Employee related transactions in DB.
   empImage - String(LONGTEXT) - can use URL for a image --> Optional
   ```
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/2c68a41f-b42d-4d93-8ab5-a649c00736a2)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/0d51f460-b4fb-4abf-bd88-f9625ee088b4)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/6b1cd9b4-a044-4112-b245-f7fb4f23e0a2)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/82785218-bdbb-44fe-a4e3-604aa7214266)
 
 <hr/>
 
@@ -134,13 +134,11 @@ This will be used to carryout Employee related transactions in DB.
 - Here, `:id` will be replaced with Employee's unique id (Which is set when the employee record is created).
 
 #### Request 
-![image](https://github.com/NadunGG/employee-db/assets/80123728/bf9e7fdc-b5e0-47ec-bd40-12ad06121ead)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/912b6af8-2170-4b49-86f4-7fdc67a1881d)
 
 #### Response
-![image](https://github.com/NadunGG/employee-db/assets/80123728/6cba125f-4a2a-4092-99c5-66f3ebab7b93)
+![image](https://github.com/NadunGG/employee-db/assets/80123728/226e46cc-ca9b-4fad-ad8f-0fa17591c59d)
 
 -------------------------------------------------------------------------------------------------------
 ##### Employee Search
-![image](https://github.com/NadunGG/employee-db/assets/80123728/d22ca897-b652-4e11-9a19-7b3f7d275612)
-
-
+![image](https://github.com/NadunGG/employee-db/assets/80123728/614a533c-882b-46a2-8bc9-2ff6a81580f5)
